@@ -1,0 +1,7 @@
+[run]
+source = CI-test
+
+[report]
+omit = 
+    */tests/*
+    setup.py

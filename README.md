@@ -1,0 +1,3 @@
+[![Build Status](https://travis-ci.org/ShiiFu/CI-test.svg?branch=master)](https://travis-ci.org/ShiiFu/CI-test)
+[![Coverage Status](https://coveralls.io/repos/github/ShiiFu/CI-test/badge.svg?branch=master)](https://coveralls.io/github/ShiiFu/CI-test?branch=master)
+[![Code Health](https://landscape.io/github/ShiiFu/CI-test/master/landscape.svg?style=flat)](https://landscape.io/github/ShiiFu/CI-test/master)
