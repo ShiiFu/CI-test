@@ -6,4 +6,5 @@ setup(name='CI-test',
   version='1.0',
   description='CI-test',
   packages=[],
+  test_suite="tests"
   )
